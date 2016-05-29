@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Hao Ji">
+    <meta name="author" content="Hao Ji">
     <!-- <link rel="icon" href="../../favicon.ico">-->
 
     <title>Wei Li</title>
@@ -44,7 +46,7 @@
 				Norfolk, VA 23529 </br>				
               </i>
                 Email: wlixx007 (at) odu (dot) edu </br>
-				Cell Phone: (757)753-1185
+				Office Phone: (757)753-1185
               </p>
 		</div>
 	</div>
@@ -56,9 +58,9 @@
         <div class="container-fluid">
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li class="active"><a href="#">Home</a></li>
+              <li><a href="index.html">Home</a></li>
 			  <li><a href="research.html">Research</a></li>
-			  <li><a href="teaching.html">Teaching</a></li>
+			  <li class="active"><a href="#">Teaching</a></li>
 			  <li><a href="awards.html">Awards</a></li>
 			  <li><a href="miscellaneous.html">Miscellaneous</a></li>
             </ul>
@@ -68,21 +70,55 @@
 
       <!-- Main component for a primary marketing message or call to action -->
       <div class="row">
-		  <div class="col-md-12">
-			<h5><b>About Me:</b></h5>
-			<p style="text-align: justify; text-justify: inter-word;">I am currently an adjunct assistant professor in the Department of Mathematics at Old Dominion University. I received my Bachelor's degree in Information and Computing Science and Master's degree in Applied Mathematics from Wuhan University of Technology in 2004 and 2006, respectively, and my Ph.D. degree in Computational and Applied Mathematics from Old Dominion University in 2015. My CV is available here: <a href="Wei_Li_cv-2016.pdf">PDF</a>. </p>
-		  </div>
-		  
 		 <div class="col-md-12">
-			  <h5><b>Computer skills:</b></h5>
-				<ul>
-				  <li> Linux, Windows </li>
-				  <li> Fortran, C/C++, Python, MPI, OpenMP </li>
-				  <li> Matlab, R, MySQL, Lammps </li>
+				<ul>		
+					<div style="margin-top:5px"></div>
+					 <li><b>Adjunct Assistant Professor, Old Dominion University, USA</b>
+						<ul>
+						  <li>Math 211 Calculus I, Summer 2016</li>
+						  <li>Math 163 Precalculus II, Spring 2016</li>
+						  <li>Math 211 Calculus I, Spring 2016</li>
+						  <li>Math 307 Ordinary Differential Equations, Spring 2016</li>
+						</ul>
+					</li>
+					
+					<div style="margin-top:5px"></div>
+					 <li><b>Graduate Instructor, Old Dominion University, USA</b>
+						<ul>
+						  <li>Math 103 College Algebra, Fall 2015</li>
+						  <li>Math 103 College Algebra (two sections), Fall 2014</li>
+						</ul>
+					</li>
+					
+					<div style="margin-top:5px"></div>
+					<li><b>Graduate Teaching assistant, Old Dominion University, USA</b>
+						<ul>
+						  <li>Math 307 Ordinary Differential Equations (with Professor Li-Shi Luo), teaching 10%-15% of the course, Spring 2014, 2015, Fall 2013, 2014, 2015</li>
+						  <li>Math 162 Precalculus I (with Mrs. Natalie Hutchinson), teaching 40% of the course, teaching skills mentored by Mrs Hutchinson, Fall 2013</li>
+						</ul>
+					</li>
+					
+					<div style="margin-top:5px"></div>
+					<li><b>Math Lab assistant (tutoring all undergraduate courses), Old Dominion University, USA</b>
+						<ul>
+						  <li>Period: Summer 2010-Spring 2011, Fall 2011-Spring 2012, Fall 2012-Summer 2013, Summer 2014, Spring 2015-Summer 2015</li>
+						</ul>
+					</li>
+
+					<div style="margin-top:5px"></div>
+					<li><b>Lecturer, Department of Mathematics & Physics, Wuyi University, China</b>
+						<ul>
+						  <li>Probability and Statistics, Operation research, Multivariable Statistical Analysis (graduate student class), Fall 2009;</li>
+						  <li>Probability and Statistics, Summer 2009;</li>
+						  <li>Calculus I and II, Probability and Statistics, Mathematical Modeling, Linear Algebra, Spring 2009;</li>
+						  <li>Calculus III, Probability and Statistics, Fall 2008;</li>
+						  <li>Calculus I and II, Probability and Statistics, Spring 2008;</li>
+						  <li>Probability and Statistics (two sections), Fall 2007.</li>
+						</ul>
+					</li>
 				</ul>
 		  </div>
-		  
-		</div>		  
+      </div>
     </div> <!-- /container -->
 
 
