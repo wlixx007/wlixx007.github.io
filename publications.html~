@@ -5,9 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Hao Ji">
+    <meta name="author" content="Hao Ji">
     <!-- <link rel="icon" href="../../favicon.ico">-->
 
-    <title>Wei Li</title>
+    <title>Hao Ji</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
@@ -28,7 +30,7 @@
 
   <body>
 
-  <div class="container">
+    <div class="container">
 	
 	<div class="row">
 		<div class="col-md-4">
@@ -58,9 +60,9 @@
             <ul class="nav navbar-nav">
               <li><a href="index.html">Home</a></li>
 			  <li><a href="research.html">Research</a></li>
-                          <li><a href="publications.html">Publications</a></li>
+			  <li class="active"><a href="#">Publications</a></li>
 			  <li><a href="teaching.html">Teaching</a></li>
-			  <li class="active"><a href="awards.html">Awards</a></li>
+			  <li><a href="awards.html">Awards</a></li>
 			  <li><a href="miscellaneous.html">Miscellaneous</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -70,14 +72,53 @@
       <!-- Main component for a primary marketing message or call to action -->
       <div class="row">
 		  <div class="col-md-12">
-		  <ul>  
-				<li>Dean's list at Old Dominion University (GPA: 4.0) in 2013.</li>  
-				<li>Certificate in Modeling and Simulation from Old Dominion University in 2012.</li>
-				<li>Second Prize in the National Postgraduates Mathematical Contest In Modeling in 2005.</li>
-				<li>Second Prize in China Undergraduate Mathematical Contest in Modeling in 2002.</li>
-			</ul>
+				<table class="table table-bordered table-hover"> <caption><b>Journal Papers</b></caption>
+
+					<tr>
+						<td align="left" class="col-md-10">
+						<ul><li><p style="text-align: justify; text-justify: inter-word;">Wei Li, Li-Shi Luo and Jie Shen. </br> 
+						<b>Accurate Solution and Approximations of the Linearized BGK Equation for Steady Couette Flow. </b> Computers & Fluids, 111(16): 18-32 (2015).
+						</p></li></ul></td>
+					</tr>
+					
+					<tr>
+						<td align="left" class="col-md-10">
+						<ul><li><p style="text-align: justify; text-justify: inter-word;">Wei Li, Zhaoli Guo and Li-Shi Luo. </br> 
+						<b>Modeling of Gas-Wall Interactions in Molecular Gas Flows in Micro-Channel.</b></br> Submitted to Physical Review Letters.
+						</p></li></ul></td>
+					</tr>
+							
+					<tr>
+						<td align="left" class="col-md-10">
+						<ul><li><p style="text-align: justify; text-justify: inter-word;">Wei Li, Shidong Jiang and Li-Shi Luo. </br> 
+						<b>High precision solutions to arbitrary accommodation ratio steady Couette flows.</b> </br> In preparation.
+						</p></li></ul></td>
+					</tr>
+
+					<tr>
+						<td align="left" class="col-md-10">
+						<ul><li><p style="text-align: justify; text-justify: inter-word;">Wei Li, Shidong Jiang and Li-Shi Luo. </br> 
+						<b>High precision solutions to arbitrary accommodation ratio steady Planar Poiseuille flows.</b> </br> In preparation.
+						</p></li></ul></td>
+					</tr>
+
+					<tr>
+						<td align="left" class="col-md-10">
+						<ul><li><p style="text-align: justify; text-justify: inter-word;">Wei Li, Ashlee R. Edwards and Richard D. Noren</br> 
+						<b>A High Order Method for Volterra Integro-diffusion Equation.</b> </br> In preparation.
+						</p></li></ul></td>
+					</tr>
+
+					<tr>
+						<td align="left" class="col-md-10">
+						<ul><li><p style="text-align: justify; text-justify: inter-word;">Wei Li</br> 
+						<b>A collocation method for Abramowitz function.</b> </br> In preparation.
+						</p></li></ul></td>
+					</tr>
+				</table>
 		  </div>
       </div>
+	  
     </div> <!-- /container -->
 
 

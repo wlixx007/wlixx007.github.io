@@ -116,6 +116,44 @@
 		  </div>	  
 		  
       </div>
+		<div class="col-md-12">
+			<h5><b>Presentations:</b></h5>
+			<ul> 
+			<li><i>W. Li. High Precision Solution Of Couette Flow With Arbitrary Accommodation Ratio. Old Dominion
+University SIAM Student Chapter, Norfolk, VA, April, 2015</i></li>
+			<li><i>W. Li, L.-S. Luo. Accurate Solution to the Integral Equation for the Steady Couette Flow. The Eleventh
+International Conference for Mesocopic Methods in Engineering and Sciences, New York, NY, July 14--18, 2014</i></li>
+			<li><i>W. Li. Modeling two dimensional molecular Couette flows in a nano-scale channel. Old Dominion Uni-
+versity Student Capstone Conference, Portsmouth, VA, April, 2013</i></li>
+			<li><i>W. Li. Equivalent Fredholm equation to the BGK Equation for isothermal planar flows with arbitrary
+accommodation ratio at boundaries. Old Dominion University SIAM Student Chapter, Norfolk, VA, April, 2013</i></li>
+			</ul> 
+		  </div>
+		<div class="col-md-12">
+			<h5><b>Papers in preparation:</b></h5>
+			<ul> 
+			<li><i>W. Li, S. Jiang and L.-S. Luo. High precision solutions to arbitrary accommodation ratio steady
+Couette flows.</i></li>
+			<li><i>W. Li, S. Jiang and L.-S. Luo. High precision solutions to arbitrary accommodation ratio steady
+Planar Poiseuille flows.</i></li>
+			<li><i>W. Li, A. R. Edwards and R. D. Noren. A High Order Method for Volterra Integro-diffusion
+Equation.</i></li>
+			<li><i>W. Li. A collocation method for Abramowitz function.</i></li>
+			</ul> 
+		  </div>
+	  	<div class="col-md-12">
+			<h5><b>Papers in Chinese:</b></h5>
+			<ul> 
+			<li><i>W. Li. Strong Local Order One Runge-Kutta Methods for Non-commutative Multidimensional Autonomous
+SDEs. Journal of Chifeng University (natural science edition), 25(6): 001--002 (2009).</i></li>
+			<li><i>W. Li. Symplectic Runge-Kutta Methords for Separable Hamiltonian Systems with Additive Noise. Sci-
+ence and Technology Innovation Herald, 108(36): 101--102 (2008).</i></li>
+			<li><i>W. Li. Particle Swarm Optimization Algorithm Combined Implicit Euler-Taylor Method. Journal of Wuyi
+University (natural science edition), 22(4): 016--019 (2008).</i></li>
+			<li><i>Z. Huang, W. Li. An Improved Evolutionary Algorithm for Solving Multimodal Function Global
+Optimization Problem on a Bounded Area. ournal of Wuhan University (natural science edition), 53(1): 055--058 (2007).</i></li>
+			</ul> 
+		  </div>
 	  
     </div> <!-- /container -->
 
